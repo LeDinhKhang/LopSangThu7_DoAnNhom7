@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBQuanLiSanPhamModelStoreContainer" CdmEntityContainer="DBQuanLiSanPhamEntities">
+    <EntitySetMapping Name="SanPhams">
+      <EntityTypeMapping TypeName="DBQuanLiSanPhamModel.SanPham">
+        <MappingFragment StoreEntitySet="SanPham">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="SoLuongSP" ColumnName="SoLuongSP" />
+          <ScalarProperty Name="NgayHH" ColumnName="NgayHH" />
+          <ScalarProperty Name="NgaySX" ColumnName="NgaySX" />
+          <ScalarProperty Name="NhaSX" ColumnName="NhaSX" />
+          <ScalarProperty Name="LoaiSP" ColumnName="LoaiSP" />
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

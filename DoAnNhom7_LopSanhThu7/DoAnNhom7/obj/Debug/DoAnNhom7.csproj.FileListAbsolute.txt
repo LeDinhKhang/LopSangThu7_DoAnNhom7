@@ -1,0 +1,118 @@
+D:\bai lam\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\bai lam\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\bai lam\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CoreCompileInputs.cache
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\bai lam\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmQR.resources
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CoreCompileInputs.cache
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmBarecode.resources
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\bin\Debug\QRCoder.dll
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CopyComplete
+D:\do an cuoi ki lt win\New folder\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.QRCode.resources
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\bin\Debug\QRCoder.dll
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmBarecode.resources
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.QRCode.resources
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CopyComplete
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\Luu Bai LT Windows\DeTai7_01\DoAnNhom7\DoAnNhom7\bin\Debug\Zen.Barcode.Core.dll
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmBarecode.resources
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.QRCode.resources
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CoreCompileInputs.cache
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.dll
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.dll
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\QRCoder.dll
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\Zen.Barcode.Core.dll
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.xml
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.xml
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CopyComplete
+D:\do an cuoi ki lt win\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Views.FrmCategory.resources
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.dll
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\QRCoder.dll
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\Zen.Barcode.Core.dll
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.xml
+D:\C#\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmBarecode.resources
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Views.FrmCategory.resources
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.QRCode.resources
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CopyComplete
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\C#\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.dll
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\QRCoder.dll
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\Zen.Barcode.Core.dll
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.xml
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmBarecode.resources
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Views.FrmCategory.resources
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.QRCode.resources
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CoreCompileInputs.cache
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CopyComplete
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\New folder (6)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe.config
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.exe
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\DoAnNhom7.pdb
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.dll
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\QRCoder.dll
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\Zen.Barcode.Core.dll
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.xml
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csprojAssemblyReference.cache
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Views.FrmCategory.resources
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.QRCode.resources
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.frmSP.resources
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.Properties.Resources.resources
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.GenerateResource.cache
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CoreCompileInputs.cache
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.csproj.CopyComplete
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.exe
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.pdb
+D:\New folder (3)\DoAnNhom7\DoAnNhom7\obj\Debug\DoAnNhom7.FrmBarcode.resources
